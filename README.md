@@ -1,14 +1,15 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
 ```shell
- { “name” : “Alex Elgueta Rivas”,
-   “role” : “Fullstack Developer”,
-   “data” : 
-     { 
+ { 
+  “name” : “Alex Elgueta Rivas”,
+  “role” : “Fullstack Developer”,
+  “data” :
+    { 
       "Linkedin" : "https://www.linkedin.com/in/alexelguetar/", 
-      "Resume"   : "https://alexelguetadev.github.io/",
+      "Resume"   : "https://alexelguetadev.github.io",
       "IG"       : "https://www.instagram.com/alexelguetarivas"
-     }
+    }
  }
 ```
 
