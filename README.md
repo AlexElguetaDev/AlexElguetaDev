@@ -6,7 +6,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/alexelguetar/", 
-      "Resume"   : "https://minombre.github.io/",
+      "Resume"   : "https://alexelguetadev.github.io/",
       "IG"       : "https://www.instagram.com/alexelguetarivas"
      }
  }
