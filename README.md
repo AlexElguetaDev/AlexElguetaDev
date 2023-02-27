@@ -58,5 +58,6 @@
 
 - QuizLarnU x LarnU
 - Part of programa tu futuro
+- Tech Lead en NextStep
 
 </br>
