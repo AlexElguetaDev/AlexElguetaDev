@@ -7,7 +7,7 @@
   “data” :
     { 
       "Linkedin" : "https://www.linkedin.com/in/alexelguetar/", 
-      "Resume"   : "https://alexelguetadev.github.io",
+      "Resume"   : "https://aderdev.vercel.app/",
       "IG"       : "https://www.instagram.com/alexelguetarivas"
     }
  }
@@ -58,5 +58,6 @@
 
 - QuizLarnU x LarnU
 - Part of programa tu futuro
+- Software Developer x Lolocar
 
 </br>
