@@ -1,6 +1,6 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Elgueta
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
 I'm a Frontend Software Engineer (often fullstack) with my ♥ in JavaScript and React. 🚀 Creator of JoHel. Let's code and make things happen!
