@@ -12,8 +12,7 @@ I'm a Frontend developer (often fullstack) with my ♥ in JavaScript and React. 
   “data” :
     { 
       "Linkedin" : "https://www.linkedin.com/in/alexelguetar/", 
-      "Resume"   : "https://aderdev.vercel.app/",
-      "IG"       : "https://www.instagram.com/alexelguetarivas"
+      "Portfolio": "https://www.alexelgueta.dev"
     }
  }
 ```
