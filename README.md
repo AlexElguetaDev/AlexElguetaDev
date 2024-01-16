@@ -49,11 +49,14 @@ I'm a Frontend Software Engineer (often fullstack) with my ♥ in JavaScript and
 </p>
 </br>
 
-### 🌱 I'm currently learning... / Last Projects
+### 🌱 Last Projects
 
-- QuizLarnU x LarnU
-- Part of programa tu futuro
-- Software Developer x Lolocar
+- #### JOHEL! STORE BUILD
+- ~~QuizLarnU x LarnU~~
+- ~~Part of programa tu futuro~~
+
+### 🥇 Current role
+- [Software Developer in Lolocar](https://app.lolocar.app)
 
 > [!IMPORTANT]
 > Coming soon for everyone: JoHel!
