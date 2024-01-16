@@ -8,7 +8,7 @@ I'm a Frontend developer (often fullstack) with my ♥ in JavaScript and React. 
 ```shell
  { 
   “name” : “Alex Elgueta Rivas”,
-  “role” : “Fullstack Developer”,
+  “role” : “Fullstack Software Engineer”,
   “data” :
     { 
       "Linkedin" : "https://www.linkedin.com/in/alexelguetar/", 
@@ -49,14 +49,13 @@ I'm a Frontend developer (often fullstack) with my ♥ in JavaScript and React. 
 </p>
 </br>
 
-### Badges
-
-<a href="https://github.com/AlexElguetaDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexElguetaDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### 🌱 I'm currently learning... / Last Projects
 
 - QuizLarnU x LarnU
 - Part of programa tu futuro
 - Software Developer x Lolocar
+
+> [!IMPORTANT]
+> Coming soon for everyone: JoHel!
 
 </br>
